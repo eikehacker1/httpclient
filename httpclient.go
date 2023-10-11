@@ -2,7 +2,6 @@
 package httpclient
 
 import (
-	"fmt"
 	"io/ioutil"
 	"net/http"
 )
